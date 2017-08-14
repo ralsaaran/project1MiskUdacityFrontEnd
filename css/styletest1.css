@@ -26,7 +26,7 @@
 
 @media screen and (min-width: 380px) and (max-width:995px){
      .photos{
-    max-width: 50%;
+    max-width: 100%;
     height: auto;
     }
 }
