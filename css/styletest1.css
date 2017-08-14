@@ -13,7 +13,22 @@
     .typephoto{
     	font-size: 30px;
     }
+/*
+    img{
+        max-width: 100%;
+        max-height: auto;
+        display: block;
+    }
+*/
+   
 
+}
+
+@media screen and (min-width: 380px) and (max-width:995px){
+     .photos{
+    max-width: 50%;
+    height: auto;
+    }
 }
 
 body{
@@ -53,6 +68,7 @@ img{
 	width: 100%;
 	height: auto;
 	margin-right: 15px;
+    
 }
 
 .socialmedia{
